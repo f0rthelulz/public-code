@@ -13,11 +13,11 @@ Content in this repo syncs with the master self-hosted code server: [code.angelu
 
 ##### Status
 
-[Cloud services and uptime status](https://status.angelulz.cloud/)
+[Main](https://status.angelulz.cloud/)
 
 ##### Dashboards
 
-[Cloud](https://angelulz.cloud) | [Application Dashboard](https://angelulz.app)
+[Cloud](https://angelulz.cloud) | [App](https://angelulz.app)
 
 ##### Reverse Proxy
 
