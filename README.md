@@ -17,11 +17,11 @@ Content in this repo syncs with the master self-hosted code server: [code.angelu
 
 ##### Dashboards
 
-[Cloud](https://angelulz.cloud) | [App](https://angelulz.app)
+[Cloud](https://angelulz.cloud) | [App](https://angelulz.app) | [Xyz](https://angelulz.xyz)
 
 ##### Reverse Proxy
 
-[Cloud](https://traefik.angelulz.cloud) | [App](https://traefik.angelulz.app)
+[Cloud](https://traefik.angelulz.cloud) | [App](https://traefik.angelulz.app) | [Xyz](https://traefik.angelulz.xyz)
 
 ##### Netdata Analytics
 
@@ -31,11 +31,14 @@ Content in this repo syncs with the master self-hosted code server: [code.angelu
 
 [Cloud](https://dozzle.angelulz.cloud) | [App](https://dozzle.angelulz.app)
 
+##### Sync
+
+[Cloud](https://sync.angelulz.cloud) | [App](https://sync.angelulz.app) | [Xyz](https://sync.angelulz.xyz)
+
 ---
 
 # Docker cmd reference
 
------
 ## Core
 
 > Run compose file
